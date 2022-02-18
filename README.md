@@ -1,3 +1,4 @@
 # Mobile Development Lab SE328L
-## Amaan Zubairi 200226
-Mobile Development Lab SE 328 LAB
+## Amaan Ahmed Zubairi 200226
+
+Mobile Development - Android Studio - Java Code - SE328 course
