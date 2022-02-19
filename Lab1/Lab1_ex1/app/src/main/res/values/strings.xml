@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Business Card Template</string>
-    <string-array name="positions">
-        <item>Employee</item>
-        <item>Manager</item>
-        <item>Trainee</item>
-    </string-array>
-</resources>
